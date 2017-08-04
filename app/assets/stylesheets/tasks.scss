@@ -1,0 +1,7 @@
+.task-item {
+  margin: 20px 0;
+
+  [data-behavior='edit-task-field'] {
+    display: none;
+  }
+}
